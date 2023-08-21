@@ -18,13 +18,17 @@ O coração pulsante do Learning Board é o arquivo 'index.html', onde toda a ma
 
 # Como Executar o Site
 Certifique-se de ter o Visual Studio Code instalado em seu computador.
+
 Clone este repositório para o diretório de sua escolha usando o seguinte comando:
-bash
-Copy code
+
 git clone https://github.com/GabrielBarreto01/2WcitSite.git
+
 Abra o Visual Studio Code.
+
 Navegue até o diretório do projeto "learning-board".
+
 Abra o arquivo 'index.html'.
+
 No canto superior direito da janela do Visual Studio Code, você encontrará um botão "Go Live". Clique nele para iniciar o servidor de desenvolvimento e experimentar o Learning Board em toda a sua glória!
 
 # Contribua
