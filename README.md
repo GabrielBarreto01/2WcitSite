@@ -7,7 +7,9 @@ A Learning Board do site Wcit, referente ao evento de Workshop de Ciência, Tecn
 # Colaboradores
 Universidade Federal do Ceará
 
-Kurt Mesquita (@)
+Kurt Mesquita (Github: kurt-shleich)
+
+Gabriel Barreto (GitHub: GabrielBarreto01)
 
 # Tecnologias Utilizadas
 Para dar vida a este projeto incrível, nosso principal aliado foi o poderoso Visual Studio Code da Microsoft. Utilizamos seu ambiente de codificação altamente personalizável para criar uma experiência de desenvolvimento fluida e eficiente.
