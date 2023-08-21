@@ -31,7 +31,9 @@ No canto superior direito da janela do Visual Studio Code, você encontrará um 
 Nós adoramos contribuições! Se você deseja participar deste emocionante projeto e ajudar a impulsionar a jornada do conhecimento, sinta-se à vontade para enviar pull requests. Juntos, podemos criar algo realmente único e impactante.
 
 # Entre em Contato
-Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em nos contatar. Você pode nos encontrar em contato@learningboard.com ou através das redes sociais listadas em nosso site.
+Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite em nos contatar. Você pode nos encontrar no instagram do evento respectivo ao qual foi dedicado o projeto @wcit.ufc ou via email de dos nossos colaboradores:
+
+Gabriel Barreto: gabrielbarretogomes01@gmail.com
 
 Agradecemos por fazer parte dessa jornada conosco!
 
