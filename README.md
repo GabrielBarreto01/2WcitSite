@@ -35,6 +35,8 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite 
 
 Gabriel Barreto: gabrielbarretogomes01@gmail.com
 
+Kurt Mesquita: 
+
 Agradecemos por fazer parte dessa jornada conosco!
 
 Desejamos a você uma exploração cheia de aprendizado pelo Learning Board do Wcit.
