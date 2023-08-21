@@ -21,7 +21,7 @@ Certifique-se de ter o Visual Studio Code instalado em seu computador.
 Clone este repositório para o diretório de sua escolha usando o seguinte comando:
 bash
 Copy code
-git clone https://github.com/seu-usuario/learning-board.git
+git clone https://github.com/GabrielBarreto01/2WcitSite.git
 Abra o Visual Studio Code.
 Navegue até o diretório do projeto "learning-board".
 Abra o arquivo 'index.html'.
