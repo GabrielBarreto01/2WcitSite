@@ -6,6 +6,7 @@ A Learning Board do site Wcit, referente ao evento de Workshop de Ciência, Tecn
 
 # Colaboradores
 Universidade Federal do Ceará
+
 Kurt Mesquita (@)
 
 # Tecnologias Utilizadas
