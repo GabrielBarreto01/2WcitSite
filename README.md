@@ -39,7 +39,7 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser dizer oi, não hesite 
 
 Gabriel Barreto: gabrielbarretogomes01@gmail.com
 
-Kurt Mesquita: 
+Juan Seabstian Toquica: juan.arenas@ufc.br
 
 Agradecemos por fazer parte dessa jornada conosco!
 
